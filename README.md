@@ -193,6 +193,4 @@ Coloque no `requirements.txt`:
 Projeto de estudo e demonstração técnica.  
 Uso livre para fins educacionais.
 
-“Os dados utilizados neste projeto são totalmente fictícios e foram gerados artificialmente para simular o fluxo real de tickets de atendimento. Não representam dados de nenhuma empresa.”
-
-“Os dados usados são simulados e não representam dados reais de operação. Foram gerados exclusivamente para fins de estudo.”
+Todos os datasets utilizados neste repositório são integralmente sintéticos, criados apenas para fins acadêmicos e não representam dados reais de usuários, clientes, empresas ou sistemas. Não há qualquer dado sensível neste repositório.

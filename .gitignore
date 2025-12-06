@@ -47,3 +47,7 @@ build/
 # === Arquivos temporários ===
 *.tmp
 *.temp
+
+# === script para gerar dados falsos ===
+
+generate_synthetic_data.py
