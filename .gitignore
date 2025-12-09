@@ -51,3 +51,6 @@ build/
 # === script para gerar dados falsos ===
 
 generate_synthetic_data.py
+
+# === Dados privados ===
+data/raw_privado/
